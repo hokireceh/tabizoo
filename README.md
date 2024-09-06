@@ -6,8 +6,15 @@
 
 Join our Telegram group to stay updated and get instructions on how to use this tool:
 
-- [Smart Airdrop](https://t.me/smartairdrop2120)
-- [Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
+- [Garapan Airdrop - Channel](https://t.me/garapanairdrop_indonesia)
+- [Sobat Ongkang Ongkang - Group](https://t.me/ongkang_ongkang)
+
+## 🚀 Run File
+
+```
+git clone https://github.com/hokireceh/tabizoo.git && cd tabizoo && python -m pip install -r requirements.txt
+```
+
 
 ## 🌟 Features
 
