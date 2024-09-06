@@ -1,7 +1,7 @@
 # TabiZoo - Auto Claim Bot
 
-🔗 **GET QUERY/USER**: [TABIZOO](https://t.me/tabizoobot/tabizoo?startapp=1170158500
-Claim a Shiro pet, earn Coins, defeat monsters to level up, and get ready to mine  soon! Come and join me in raising pets!)
+🔗 **GET QUERY/USER**: [TABIZOO](https://t.me/tabizoobot/tabizoo?startapp=1170158500)
+
 
 ## 📢 Telegram Group
 
