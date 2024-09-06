@@ -2,7 +2,7 @@ import sys
 
 sys.dont_write_bytecode = True
 
-from smart_airdrop_claimer import base
+from colorama import *
 from core.info import get_info
 from core.task import process_check_in, process_do_project_task, process_do_normal_task
 from core.mine import process_claim
