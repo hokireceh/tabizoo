@@ -1,6 +1,6 @@
 # TabiZoo - Auto Claim Bot
 
-🔗 **Referral Link**: [TabiZoo](https://t.me/tabizoobot/tabizoo?startapp=A1gqF1)
+**GET QUERY/USER**: [TABIZOO](https://t.me/tabizoobot/tabizoo?startapp=1170158500)
 
 ## 📢 Telegram Group
 
