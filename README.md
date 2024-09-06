@@ -1,6 +1,7 @@
 # TabiZoo - Auto Claim Bot
 
-🔗 **Referral Link**: [TabiZoo](https://t.me/tabizoobot/tabizoo?startapp=A1gqF1)
+🔗 **GET QUERY/USER**: [TABIZOO](https://t.me/tabizoobot/tabizoo?startapp=1170158500
+Claim a Shiro pet, earn Coins, defeat monsters to level up, and get ready to mine  soon! Come and join me in raising pets!)
 
 ## 📢 Telegram Group
 
@@ -38,3 +39,10 @@ git clone https://github.com/hokireceh/tabizoo.git && cd tabizoo && python -m pi
   - Starts with `query_id=...`
 - Auto features: Change `false` to `true` in the `config.json` file.
 - Supported commands: `/run_bot` `/proxy` `/proxy_web` (Join group to use these commands).
+
+## 💱 Support Me
+
+- (Global/International): https://sociabuzz.com/vania_gemash/tribe
+- Ton: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
+- Dogs: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
+- TRON / USDT (Tron20): ```TChYgcKG6zRwz5FP9UTZrAik3xDPa12M94```
