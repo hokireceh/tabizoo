@@ -1,4 +1,1 @@
-requests
-requests[socks]
-colorama
-brotli
+smart-airdrop-claimer

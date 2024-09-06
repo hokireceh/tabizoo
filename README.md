@@ -1,21 +1,13 @@
 # TabiZoo - Auto Claim Bot
 
-🔗 **GET QUERY/USER**: [TABIZOO](https://t.me/tabizoobot/tabizoo?startapp=1170158500)
-
+🔗 **Referral Link**: [TabiZoo](https://t.me/tabizoobot/tabizoo?startapp=A1gqF1)
 
 ## 📢 Telegram Group
 
 Join our Telegram group to stay updated and get instructions on how to use this tool:
 
-- [Garapan Airdrop - Channel](https://t.me/garapanairdrop_indonesia)
-- [Sobat Ongkang Ongkang - Group](https://t.me/ongkang_ongkang)
-
-## 🚀 Run File
-
-```
-git clone https://github.com/hokireceh/tabizoo.git && cd tabizoo && python -m pip install -r requirements.txt
-```
-
+- [Smart Airdrop](https://t.me/smartairdrop2120)
+- [Smart Airdrop - Channel](https://t.me/smartairdrop_channel)
 
 ## 🌟 Features
 
@@ -39,10 +31,3 @@ git clone https://github.com/hokireceh/tabizoo.git && cd tabizoo && python -m pi
   - Starts with `query_id=...`
 - Auto features: Change `false` to `true` in the `config.json` file.
 - Supported commands: `/run_bot` `/proxy` `/proxy_web` (Join group to use these commands).
-
-## 💱 Support Me
-
-- (Global/International): https://sociabuzz.com/vania_gemash/tribe
-- Ton: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
-- Dogs: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
-- TRON / USDT (Tron20): ```TChYgcKG6zRwz5FP9UTZrAik3xDPa12M94```
