@@ -21,6 +21,21 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 | Auto Upgrade  | On/Off | Level up to increase mining rate  |
 
 ## 🚀 Run File
+- Linux / Termux
+```
+git clone https://github.com/hokireceh/tabizoo.git
+```
+```
+cd tabizoo
+```
+```
+pip install hokireceh-claimer
+```
+
+VPS
+```
+pip3 install hokireceh-claimer
+```
 
 | Run with Proxy                   | Run without Proxy   |
 | -------------------------------- | ------------------- |
