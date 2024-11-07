@@ -6,6 +6,7 @@ from hokireceh_claimer import base
 from core.info import get_info
 from core.task import process_check_in, process_do_project_task, process_do_normal_task
 from core.mine import process_claim
+from core.spin import process_spin
 from core.upgrade import process_upgrade
 
 import time
@@ -35,6 +36,10 @@ class TabiZoo:
 
         self.auto_claim = base.get_config(
             config_file=self.config_file, config_name="auto-claim"
+        )
+
+        self.auto_spin = base.get_config(
+            config_file=self.config_file, config_name="auto-spin"
         )
 
         self.auto_upgrade = base.get_config(
@@ -88,6 +93,13 @@ class TabiZoo:
                         process_claim(data=data, proxies=proxies)
                     else:
                         base.log(f"{base.yellow}Auto Claim: {base.red}OFF")
+
+                    # Spin
+                    if self.auto_spin:
+                        base.log(f"{base.yellow}Auto Spin: {base.green}ON")
+                        process_spin(data=data, multiplier=1, proxies=proxies)
+                    else:
+                        base.log(f"{base.yellow}Auto Spin: {base.red}OFF")
 
                     # Upgrade
                     if self.auto_upgrade:
