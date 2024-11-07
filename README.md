@@ -13,12 +13,13 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 ## 🌟 Features
 
-| Feature       | Status | Description                       |
-| ------------- | ------ | --------------------------------- |
-| Auto Check-in | On/Off | Check-in daily to get more points |
-| Auto Do Task  | On/Off | Complete tasks                    |
-| Auto Claim    | On/Off | Claim points when available       |
-| Auto Upgrade  | On/Off | Level up to increase mining rate  |
+| Feature       | Status | Description                              |
+| ------------- | ------ | ---------------------------------------- |
+| Auto Check-in | On/Off | Check-in daily to get more points        |
+| Auto Do Task  | On/Off | Complete tasks                           |
+| Auto Claim    | On/Off | Claim points when available              |
+| Auto Spin     | On/Off | Spin to get random points (more or less) |
+| Auto Upgrade  | On/Off | Level up to increase mining rate         |
 
 ## 🚀 Run File
 - Linux / Termux
