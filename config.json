@@ -2,5 +2,6 @@
   "auto-check-in": "true",
   "auto-do-task": "true",
   "auto-claim": "true",
+  "auto-spin": "true",
   "auto-upgrade": "false"
 }
