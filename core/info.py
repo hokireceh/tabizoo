@@ -1,6 +1,6 @@
 import requests
 
-from hokireeceh_claimer import base
+from hokireceh_claimer import base
 from core.headers import headers
 
 
@@ -12,12 +12,14 @@ def get_info(data, proxies=None):
             url=url, headers=headers(data=data), proxies=proxies, timeout=20
         )
         data = response.json()
-        balance = data["data"]["user"]["coins"]
+        coins = data["data"]["user"]["coins"]
+        zoo_coins = data["data"]["user"]["zoo_coins"]
+        crystal_coins = data["data"]["user"]["crystal_coins"]
         level = data["data"]["user"]["level"]
         streak = data["data"]["user"]["streak"]
 
         base.log(
-            f"{base.green}Balance: {base.white}{balance:,} - {base.green}Level: {base.white}{level} - {base.green}Streak: {base.white}{streak}"
+            f"{base.green}Coins: {base.white}{coins:,} - {base.green}Zoo Coins: {base.white}{zoo_coins:,} - {base.green}Crystal Coins: {base.white}{crystal_coins:,} - {base.green}Level: {base.white}{level} - {base.green}Streak: {base.white}{streak}"
         )
         return data
     except:
