@@ -2,7 +2,7 @@ import sys
 
 sys.dont_write_bytecode = True
 
-from h_claimer import base
+from hokireceh_claimer import base
 from core.info import get_info
 from core.task import process_check_in, process_do_project_task, process_do_normal_task
 from core.mine import process_claim
