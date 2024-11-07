@@ -1,6 +1,6 @@
 # TabiZoo - Auto Claim Bot
 
-**GET QUERY/USER**: [TABIZOO](https://t.me/tabizoobot/tabizoo?startapp=1170158500)
+**Register**: [TABIZOO](https://t.me/tabizoobot/tabizoo?startapp=1170158500)
 
 ## 📢 Telegram Group
 
